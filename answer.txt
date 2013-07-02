@@ -1,0 +1,7 @@
+CS121 A'11
+HW 7: predicting crime from calls to 311
+
+YOUR NAME(S)
+
+This file should contain your answers to the questions posed in the homework assignment.
+
